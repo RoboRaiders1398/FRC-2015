@@ -19,14 +19,14 @@ public class Robot extends SimpleRobot {
 		Alliance color = GetAlliance();
         	int pos =  GetLocation();	//Get starting position during autonomos mode
 		switch (pos) {
-		case 1: 	//if starting position is 1
-			break;
-		case 2:		//if starting position is 2
-			break;
-		case 3:		//if starting position is 3
-			break;
-		default:	//catchall.... just in case...
-			break;
+			case 1: 	//if starting position is 1
+				break;
+			case 2:		//if starting position is 2
+				break;
+			case 3:		//if starting position is 3
+				break;
+			default:	//catchall.... just in case...
+				break;
 		}
 		
     }
