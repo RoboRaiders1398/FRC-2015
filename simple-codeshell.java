@@ -11,7 +11,7 @@ import edu.wpi.first.wpilibj.Timer;
 
 public class Robot extends SimpleRobot {
 	Joystick l_stick = new Joystick(1);
-    Joystick r_stick = new Joystick(2);
+    	Joystick r_stick = new Joystick(2);
 	RobotDrive drive = new RobotDrive(1, 2);
 
 
