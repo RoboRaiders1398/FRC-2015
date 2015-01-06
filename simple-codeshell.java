@@ -1,4 +1,4 @@
-package edu.wpi.first.wpilibj.templates;
+package com.team1398.robot;
 
 import edu.wpi.first.wpilibj.Talon;
 import edu.wpi.first.wpilibj.Joystick;
