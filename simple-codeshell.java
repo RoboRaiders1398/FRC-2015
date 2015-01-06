@@ -17,7 +17,7 @@ public class Robot extends SimpleRobot {
 
   public void autonomous() {
 		Alliance color = GetAlliance();
-        	int pos =  GetLocation;	//Get starting position during autonomos mode
+        	int pos =  GetLocation();	//Get starting position during autonomos mode
 		switch (pos) {
 		case 1: 	//if starting position is 1
 			break;
